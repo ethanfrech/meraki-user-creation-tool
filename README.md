@@ -35,7 +35,7 @@ The script writes the results to a file called `output.txt`. This file should be
 The format of the output file is as follows:
 
 ```
-{apartment_number},{password},{number},{group_policy_id},{success|failure}
+{apartment_number},{password},{group_policy_id},{success|failure}
 ```
 
 The script also creates a copy of the output file with the current date and the group policy ID in the filename.
