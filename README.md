@@ -49,7 +49,7 @@ The batch script `start.bat` prompts the user for their Meraki API Key, Network 
 To run the tool, always use the following command:
 
 ```
-start.bat
+./start.bat
 ```
 
 When prompted, enter your Meraki API Key, Network ID, and Group Policy ID. The Python script will then be started automatically.
